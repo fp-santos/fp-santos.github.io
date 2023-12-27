@@ -51,7 +51,7 @@ We are looking for a profile combining a strong computational and mathematical b
 * The names and contact addresses of at least two academic references (please do not include any recommendation letters).
  
 **Application deadline:** February 6, 2024  
-**Interviews date (online and/or onsite):** February 14-28, 2024  
+**Interviews date (online and/or onsite):** February 14-26, 2024  
 **Expected start date:** Summer/Fall, 2024  
  
 

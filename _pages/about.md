@@ -2,25 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Assistant Professor, Informatics Institute, University of Amsterdam.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: fpsantos.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>L5.11, Lab 42</p>
+    <p>Science Park 900</p>
+    <p>1098 XH Amsterdam</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Assistant Professor at the Informatics Institute of the University of Amsterdam. I am part of the SIAS group, where I lead the Prosocial Dynamics Lab, and I am the Scientific Lab Manager of the Civic AI Lab.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research lies at the interface of Artificial Intelligence and Complex Systems: I aim at modelling behavioral dynamics in systems of adaptive learning agents, understanding human cooperation, and designing prosocial AI.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research is currently supported by an ERC Starting Grant (RE-LINK) to understand the impacts of link-recommendation algorithms in human social dynamics. 
+
+I was a Postdoctoral Research Fellow at Princeton University, with Simon A. Levin and supported by a James S. McDonnell Foundation Fellowship. I completed my PhD (2018) at Instituto Superior Técnico (IST, Lisboa) under the supervision of Francisco C. Santos, Jorge M. Pacheco, and Ana Paiva; my thesis received the Victor Lesser Distinguished Dissertation Award 2018, the APPIA Best Doctoral Thesis in AI 2017-2018 and the INESC-ID best PhD Student award.

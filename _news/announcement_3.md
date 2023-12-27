@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-07-03
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I'll be giving two invited lectures on the topics of Cooperation, Reputation and Polarization at the 2023 FEBT Summer School on Behavioral Economics (Split, Croatia). More info [here](http://summer.efst.hr/Courses/Behavioural-Economics).

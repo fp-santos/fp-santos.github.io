@@ -2,7 +2,7 @@
 layout: page
 permalink: /team/
 title: team
-description: I am very lucky to work with a talented team of postdocs, PhD and MSc students!
+description: I am extremely lucky to work with a talented and kind team of postdocs, PhD and MSc students! 
 nav: true
 nav_rank: 2
 ---

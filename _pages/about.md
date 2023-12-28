@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor at the [Informatics Institute](https://ivi.uva.nl) of the University of Amsterdam. I am part of the [SIAS group](https://www.sias-uva.nl), where I lead the [Prosocial Dynamics Lab](/team) and manage the [Civic AI Lab](https://www.civic-ai.nl).
+I am an Assistant Professor at the [Informatics Institute](https://ivi.uva.nl) of the University of Amsterdam. I am part of the [SIAS group](https://www.sias-uva.nl), where I lead the [Prosocial Dynamics Lab](/team) and I manage the [Civic AI Lab](https://www.civic-ai.nl).
 
 **My research lies at the interface of AI and Complex Systems: I study behavioral dynamics in systems of adaptive learning agents and aim at designing prosocial/fair AI** ([more info](/research)).
 

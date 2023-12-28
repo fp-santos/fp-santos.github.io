@@ -25,6 +25,8 @@ We are looking for a profile combining a strong computational and mathematical b
 
 ### Tasks and responsibilities: 
 
+This project will be conducted at the Informatics Institute of the University of Amsterdam and will be supervised by Fernando P. Santos. The selected candidate will work at the [Socially Intelligent Artificial Systems (SIAS)](https://www.sias-uva.nl) group, in the new [Prosocial Dynamics Lab](/lab). The selected candidate is expected to:
+
 * Conduct independent research in the area(s) of multi-agent systems simulation, dynamics on complex networks, graph representation learning and/or recommendation algorithms (depending on the relevant position as described above);
 * Develop new (optimized) computational models and systematically evaluate them locally and in high performance computing clusters;
 * Read scientific literature and creatively suggest new research directions grounded in recent articles, in connection with the RE-LINK project;

@@ -7,10 +7,10 @@ nav: true
 nav_order: 5
 ---
 
-## PhD positions: Responsible Link-Recommendations in Dynamic Environments  
+## PhD position(s): Responsible Link-Recommendations in Dynamic Environments  
 --  
 
-Have you always wanted to develop computational models to understand human social dynamics? Are you passionate about designing recommendation algorithms that are fair and positively impact society? Do you enjoy working in an international and interdisciplinary research setting, at the interface of computer science, recommendation systems, computational social science, and behavioral sciences? If so, we have the right position for you! We are looking for ambitious doctoral students to join the ERC project RE-LINK (Responsible Link-Recommendations in Dynamic Environments).
+Have you always wanted to develop computational models to understand human social dynamics? Are you passionate about designing recommendation algorithms that are fair and positively impact society? Do you enjoy working in an international and interdisciplinary research setting, at the interface of computer science, recommendation systems, computational social science, and behavioral sciences? If so, we have the right position for you! We are looking for ambitious doctoral students to join the ERC project RE-LINK (Responsible Link-Recommendations in Dynamic Environments), at the University of Amsterdam.
  
 With project RE-LINK, we aim at developing new computational models to evaluate 1) the long-term societal impacts of link-recommendation algorithms in online social networks and 2) design a new paradigm of link-recommenders that incentivize cooperation, fairness, collective action, and misinformation control. 
  
@@ -25,7 +25,7 @@ We are looking for a profile combining a strong computational and mathematical b
 
 ### Tasks and responsibilities: 
 
-This project will be conducted at the Informatics Institute of the University of Amsterdam and will be supervised by Fernando P. Santos. The selected candidate will work at the [Socially Intelligent Artificial Systems (SIAS)](https://www.sias-uva.nl) group, in the new [Prosocial Dynamics Lab](/lab). The selected candidate is expected to:
+This project will be conducted at the Informatics Institute of the University of Amsterdam. the selected candidates will work at the [Socially Intelligent Artificial Systems (SIAS)](https://www.sias-uva.nl) group, in the new [Prosocial Dynamics Lab](/lab). The candidates are expected to:
 
 * Conduct independent research in the area(s) of multi-agent systems simulation, dynamics on complex networks, graph representation learning and/or recommendation algorithms (depending on the relevant position as described above);
 * Develop new (optimized) computational models and systematically evaluate them locally and in high performance computing clusters;
@@ -34,7 +34,6 @@ This project will be conducted at the Informatics Institute of the University of
 * Be an active member of our research community, participate in regular meetings and collaborate with other researchers at the Informatics Institute;
 * Assist in teaching activities and/or supervising students.
 * Complete and defend a PhD thesis within the official appointment duration of four years.
-
 
 ### Your experience and profile:
 * An MSc degree in Computer Science, Artificial Intelligence, Applied Mathematics/Physics, Complex Systems or related fields;
@@ -59,6 +58,7 @@ This project will be conducted at the Informatics Institute of the University of
 **Expected start date:** Summer/Fall, 2024  
  
 
-**If you are interested in these positions, please reach out for more information and manifestation of interest (f.p.santos@uva.nl). Soon an official application link to upload your materials will be posted.**
+**If you are interested in these positions, please reach out for more information and manifestation of interest (f.p.santos@uva.nl).
+Soon an official application link to upload your materials will be posted.**
 
 

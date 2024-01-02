@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-## PhD position(s): Responsible Link-Recommendations in Dynamic Environments  
+## PhD position(s): Responsible Link-Recommendations and Social Dynamics  
 --  
 
 Have you always wanted to develop computational models to understand human social dynamics? Are you passionate about designing recommendation algorithms that are fair and positively impact society? Do you enjoy working in an international and interdisciplinary research setting, at the interface of computer science, recommendation systems, computational social science, and behavioral sciences? If so, we have the right position for you! We are looking for ambitious doctoral students to join the ERC project RE-LINK (Responsible Link-Recommendations in Dynamic Environments), at the University of Amsterdam.
@@ -17,7 +17,7 @@ With project RE-LINK, we aim at developing new computational models to evaluate 
 This project will resort to mathematical and computational tools such as (evolutionary) game theory, network science, graph representation learning and recommendation systems. We will hire 3 PhD students to work on different components of the project: 
  
 * **Position 1:** Study the long-term impacts of link-recommendation algorithms in cooperation dynamics and collective action dilemmas.
-* **Position 2:** Study the long-term impacts of link-recommendation algorithms in radicalization and misinformation. 
+* **Position 2:** Study the long-term impacts of link-recommendation algorithms in radicalization, polarization and misinformation. 
 * **Position 3:** Develop and evaluate new link-recommendation algorithms that consider long-term impacts in social dynamics.
  
 We are looking for a profile combining a strong computational and mathematical background with curiosity, passion for scientific research and eagerness to comprehend social dynamics in hybrid systems where AI and humans co-exist. Let us know how your experience and interests fit with any of these positions.

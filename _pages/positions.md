@@ -46,7 +46,7 @@ This project will be conducted at the Informatics Institute of the University of
  
 ### Applications should include the following information:
 * A motivation letter that motivates your choice for this position; Please indicate your ordered preference for the positions listed above (max 1 page);
-* A research statement on how to approach the project. Solid and creative ideas will be greatly appreciated (max 1 page);
+* A research statement on how to approach the project. Solid and creative ideas will be greatly appreciated (max 2 page);
 * Curriculum vitae, including your list of publications if applicable;
 * A link to your Master’s thesis. If not yet completed, a 1-page summary of goals and 1 figure summarizing the key results so far will suffice;
 * A complete record of Bachelor and Master courses (including grades and explanation of grading system);

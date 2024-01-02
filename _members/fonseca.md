@@ -10,7 +10,7 @@ lastname: Fonseca
 publications: 'author^=*Fonseca'
 
 teaser: >
-    I am currently a Ph.D. student @ SIAS Group, University of Amsterdam, studying the impacts of recommendation algorithms on virality on social media.
+    Hi! I am a PhD student at the Socially Intelligent Artificial Systems (SIAS) group at the University of Amsterdam. My research focuses on the effects of algorithmic recommendations on social media virality. Feel free to reach out if you’re curious!
 
 profile:
     name: João Fonseca

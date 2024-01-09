@@ -58,7 +58,7 @@ This project will be conducted at the Informatics Institute of the University of
 **Expected start date:** Summer/Fall, 2024  
  
 
-**If you are interested in these positions, please reach out for more information and manifestation of interest (f.p.santos@uva.nl).
-Soon an official application link to upload your materials will be posted.**
+**If you have questions about these positions, please reach out for more information and manifestation of interest (f.p.santos@uva.nl).**
 
+#### More information and application at https://vacatures.uva.nl/UvA/job/Three-PhD-Positions-on-Link-Recommendation-Algorithms-and-Social-Dynamics/785621802/
 

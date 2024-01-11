@@ -17,5 +17,6 @@ The problems of cooperation in multiagent systems and human societies are no lon
 
 At the **Prosocial Dynamics Lab**, a new group at [SIAS](https://www.sias-uva.nl), we focus in five key decision-making domains where a combination of tools at the interface of AI, multiagent systems and population dynamics can improve our abilities to design increasingly prosocial systems: **1) reputation systems**, **2) recommender systems**, **3) hybrid systems**, **4) classification systems** and **5) urban systems**. These five domains share commonalities: they constitute areas where understanding the interrelated dynamics of humans and agents’ behavior is essential; and they constitute domains where achieving socially desirable outcomes requires solving social dilemmas of cooperation, fairness and prosociality.
 
+More details in a recent [AI Magazine article](https://doi.org/10.1002/aaai.12143).
 
 ### Under construction; keep tuned for news in 2024!

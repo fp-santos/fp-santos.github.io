@@ -54,7 +54,7 @@ This project will be conducted at the Informatics Institute of the University of
 
 
 **Application deadline:** February 6, 2024  
-**Interviews date (online and/or onsite):** February 14-26, 2024  
+**Interviews date (online and/or onsite):** February/March, 2024  
 **Expected start date:** Summer/Fall, 2024  
  
 

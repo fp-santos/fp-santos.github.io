@@ -7,8 +7,57 @@ nav: true
 nav_order: 5
 ---
 
-## PhD position(s): Responsible Link-Recommendations and Social Dynamics  
+## PhD position: Cooperation through Reputation in Multi-agent Reinforcement Learning Environments (deadline 2 October 2024) 
+
+Have you always wanted to develop computational models to understand how artificial agents can learn how to cooperate? Are you passionate about designing AI systems where cooperation and prosociality prevail? Do you enjoy working in an international and interdisciplinary research setting, at the interface of computer science, artificial intelligence, evolutionary biology, and game theory? If so, we have the right position for you! We are looking for ambitious doctoral students to join the project “Reputation as a new route to cooperation in multi-agent reinforcement learning”, at the University of Amsterdam.
+
+Altruistic cooperation requires that individuals incur a cost to provide a benefit to others. This has raised questions in many disciplines, from evolutionary biology to economics: Why did altruistic cooperation evolved through natural selection? How to explain and incentivise human cooperation in economic games? In Artificial Intelligence (AI), particularly in the sub-field of multi-agent systems, altruistic cooperation also poses unresolved questions: How to design a system where artificial agents autonomously learn to cooperate? Answering this question is fundamental to design socially intelligent AI and agents that can cooperate with others and humans. With this project we will explore the opportunities and challenges of considering reputation systems as a tool for cooperation in complex multi-agent reinforcement learning environments.
+
+This project will resort to mathematical and computational tools such as reinforcement learning, agent-based simulations, (evolutionary) game theory and stochastic processes analysis.  
+
+We are looking for a profile combining a strong computational and mathematical background with curiosity, passion for scientific research and eagerness to comprehend cooperation dynamics in multiagent systems. Let us know how your experience and interests fit with this position. 
+
+### Tasks and responsibilities: 
+
+This project will be conducted at the Informatics Institute of the University of Amsterdam. the selected candidates will work at the [Socially Intelligent Artificial Systems (SIAS)](https://www.sias-uva.nl) group, in the new [Prosocial Dynamics Lab](/lab). The candidates are expected to:
+
+* Conduct independent research in the area(s) of multi-agent systems simulation, multi-agent reinforcement learning and game theory;
+* Develop new (optimized) computational models and systematically evaluate them locally and in high performance computing clusters;
+* Read scientific literature and creatively suggest new research directions grounded in recent articles, in connection with cooperation, indirect reciprocity, reputation systems and multi-agent reinforcement learning;
+* Present research results at international conferences and workshops and, in collaboration  with the supervisor, write research articles to be published in academic journals and book chapters;
+* Be an active member of our research community, participate in regular meetings and collaborate with other researchers at the Informatics Institute;
+* Assist in teaching activities and/or supervising students.
+* Complete and defend a PhD thesis within the official appointment duration of four years.
+
+### Your experience and profile:
+* An MSc degree in Computer Science, Artificial Intelligence, Applied Mathematics/Physics, Complex Systems or related fields;
+* A strong background/knowledge in computational modelling and reinforcement learning. Experience with (evolutionary) game theory and network science is a plus.
+* Excellent programming skills preferably in Python, C++, Mathematica, or related languages.
+* Strong communication, presentation and writing skills and an excellent command of English;
+* Highly motivated, independent, and creative;
+* Socially engaged, eager to work in a multidisciplinary environment.
+
+ 
+### Applications should include the following information:
+* A motivation letter that motivates your choice for this position (max 1 page);
+* A research statement on how to approach the project. Solid and creative ideas will be greatly appreciated (max 2 page);
+* Curriculum vitae, including your list of publications if applicable;
+* A link to your Master’s thesis. If not yet completed, a 1-page summary of goals and 1 figure summarizing the key results so far will suffice;
+* A complete record of Bachelor and Master courses (including grades and explanation of grading system);
+* The names and contact addresses of at least two academic references (please do not include any recommendation letters).  
+
+
+**Application deadline:** October 2, 2024  
+**Interviews date (online and/or onsite):** October 9-16, 2024  
+**Expected start date:** March 2024
+
+
 --  
+
+
+Archive: 
+
+## PhD position(s): Responsible Link-Recommendations and Social Dynamics (deadline February 2024) 
 
 Have you always wanted to develop computational models to understand human social dynamics? Are you passionate about designing recommendation algorithms that are fair and positively impact society? Do you enjoy working in an international and interdisciplinary research setting, at the interface of computer science, recommendation systems, computational social science, and behavioral sciences? If so, we have the right position for you! We are looking for ambitious doctoral students to join the ERC project RE-LINK (Responsible Link-Recommendations in Dynamic Environments), at the University of Amsterdam.
  

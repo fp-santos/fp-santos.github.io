@@ -47,7 +47,7 @@ This project will be conducted at the Informatics Institute of the University of
 * The names and contact addresses of at least two academic references (please do not include any recommendation letters).  
 
 **Application deadline:** October 2, 2024  
-**Interviews date (online and/or onsite):** October 9-16, 2024  
+**Interviews date (online and/or onsite):** October 9-24, 2024  
 **Expected start date:** March 2024
 
 **If you have questions about this position, please reach out for more information and manifestation of interest (f.p.santos@uva.nl).**

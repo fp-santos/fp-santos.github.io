@@ -7,11 +7,11 @@ nav: true
 nav_order: 5
 ---
 
-## PhD position: Cooperation through Reputation in Multi-agent Reinforcement Learning Environments
+## PhD position: Cooperation through Reputation in Multi-agent Reinforcement Learning
 
 **Aplication deadline: October 2, 2024**
 
-Have you always wanted design artificial agents that learn how to cooperate with each other? Are you passionate about developing AI systems where prosociality prevails? Do you enjoy working in an international and interdisciplinary research setting, at the interface of computer science, artificial intelligence, evolutionary biology, and game theory? If so, we have the right position for you! We are looking for an ambitious doctoral student to join the project “Reputation as a new route to cooperation in multi-agent reinforcement learning”, at the Informatics Institute of the University of Amsterdam.
+Have you always wanted to design artificial agents that learn how to cooperate with each other? Are you passionate about developing AI systems where prosociality prevails? Do you enjoy working in an international and interdisciplinary research setting, at the interface of computer science, artificial intelligence, evolutionary biology, and game theory? If so, we have the right position for you! We are looking for an ambitious doctoral student to join the project “Reputation as a new route to cooperation in multi-agent reinforcement learning”, at the Informatics Institute of the University of Amsterdam.
 
 Altruistic cooperation requires that individuals incur a cost to provide a benefit to others. This has raised questions in many disciplines, from evolutionary biology to economics: Why did altruistic cooperation evolved through natural selection? How to explain and incentivise human cooperation in economic games? In Artificial Intelligence (AI), particularly in the sub-field of multi-agent systems, altruistic cooperation also poses unresolved questions: How to design a system where artificial agents autonomously learn to cooperate? Answering this question is fundamental to design socially intelligent AI and agents that can cooperate with others and humans. With this project we will explore the opportunities and challenges of considering reputation systems as a tool for cooperation in complex multi-agent reinforcement learning environments.
 
@@ -59,7 +59,7 @@ This project will be conducted at the Informatics Institute of the University of
 
 Archive: 
 
-## PhD position(s): Responsible Link-Recommendations and Social Dynamics (deadline February 2024) 
+# PhD position(s): Responsible Link-Recommendations and Social Dynamics (deadline February 2024) 
 
 Have you always wanted to develop computational models to understand human social dynamics? Are you passionate about designing recommendation algorithms that are fair and positively impact society? Do you enjoy working in an international and interdisciplinary research setting, at the interface of computer science, recommendation systems, computational social science, and behavioral sciences? If so, we have the right position for you! We are looking for ambitious doctoral students to join the ERC project RE-LINK (Responsible Link-Recommendations in Dynamic Environments), at the University of Amsterdam.
  

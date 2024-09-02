@@ -52,7 +52,8 @@ This project will be conducted at the Informatics Institute of the University of
 
 **If you have questions about this position, please reach out for more information and manifestation of interest (f.p.santos@uva.nl).**
 
-#### More information and application [here]( ) 
+#### More information and application [here](https://vacatures.uva.nl/UvA/job/PhD-Position-on-Cooperation-through-Reputation-in-Multi-agent-Reinforcement-Learning/802222502/) 
+
 
 --  
 

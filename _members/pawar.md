@@ -1,8 +1,8 @@
 ---
 layout: about
 inline: true
-group: MSc
-group_rank: 7
+group: PhD
+group_rank: 6
 team_frontpage: false
 
 title: Madhura Pawar
@@ -10,8 +10,7 @@ lastname: Pawar
 publications: 'author^=*Pawar'
 
 teaser: >
-    I am currently a 2nd year Masters in AI student at the University of Amsterdam. I have three years of experience in Software Engineering.
-
+    I'm Madhura, a Ph.D. student at Prosocial Dynamics Lab (SIAS Group), University of Amsterdam. I am part of the RE-LINK project, where I focus on understanding the impact of link-recommendation algorithms on cooperation and collective action!
 profile:
     name: Madhura Pawar
     align: right

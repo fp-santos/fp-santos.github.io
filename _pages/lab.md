@@ -19,4 +19,5 @@ At the **Prosocial Dynamics Lab**, a new group at [SIAS](https://www.sias-uva.nl
 
 More details in a recent [AI Magazine article](https://doi.org/10.1002/aaai.12143).
 
-### Under construction; keep tuned for news in 2024!
+{% include figure.html path="assets/img/prosocial_dyanmics_lab_Dec2024.png" class="img-fluid rounded z-depth-1" zoomable=false%}
+(Prosocial Dynamics Lab, December 2024)

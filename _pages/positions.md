@@ -7,11 +7,12 @@ nav: true
 nav_order: 5
 ---
 
-# No open positions at the moment
+## No open positions at the moment (but keep an eye on this page for future opportunities)
 
-Archive: 
 
-# PhD position: Cooperation through Reputation in Multi-agent Reinforcement Learning
+# Archive: 
+
+## PhD position: Cooperation through Reputation in Multi-agent Reinforcement Learning
 
 **Aplication deadline: October 2, 2024**
 
@@ -62,7 +63,7 @@ This project will be conducted at the Informatics Institute of the University of
 --  
 
 
-# PhD position(s): Responsible Link-Recommendations and Social Dynamics (deadline February 2024) 
+## PhD position(s): Responsible Link-Recommendations and Social Dynamics (deadline February 2024) 
 
 Have you always wanted to develop computational models to understand human social dynamics? Are you passionate about designing recommendation algorithms that are fair and positively impact society? Do you enjoy working in an international and interdisciplinary research setting, at the interface of computer science, recommendation systems, computational social science, and behavioral sciences? If so, we have the right position for you! We are looking for ambitious doctoral students to join the ERC project RE-LINK (Responsible Link-Recommendations in Dynamic Environments), at the University of Amsterdam.
  

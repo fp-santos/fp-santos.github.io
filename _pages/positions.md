@@ -7,7 +7,11 @@ nav: true
 nav_order: 5
 ---
 
-## PhD position: Cooperation through Reputation in Multi-agent Reinforcement Learning
+# No open positions at the moment
+
+Archive: 
+
+# PhD position: Cooperation through Reputation in Multi-agent Reinforcement Learning
 
 **Aplication deadline: October 2, 2024**
 
@@ -57,8 +61,6 @@ This project will be conducted at the Informatics Institute of the University of
 
 --  
 
-
-Archive: 
 
 # PhD position(s): Responsible Link-Recommendations and Social Dynamics (deadline February 2024) 
 

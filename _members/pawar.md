@@ -14,7 +14,7 @@ teaser: >
 profile:
     name: Madhura Pawar
     align: right
-    image: pawar-profile.jpeg
+    image: pawar-profile.jpg
     twitter: 
     github: https://github.com/madhu221b
     orcid: 

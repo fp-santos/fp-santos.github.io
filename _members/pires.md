@@ -15,9 +15,9 @@ teaser: >
 profile:
     name: Alexandre S. Pires
     align: right
-    image: pires-profile.jpeg
+    image: pires-profile.jpg
     twitter: 
-    github: 
+    github: https://github.com/alexandresilvapires
     orcid: 
     website: https://alexandresilvapires.github.io
 ---

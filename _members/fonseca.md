@@ -15,7 +15,7 @@ teaser: >
 profile:
     name: João Fonseca
     align: right
-    image: fonseca-profile.jpeg
+    image: fonseca-profile.jpg
     twitter: 
     github: 
     orcid: 

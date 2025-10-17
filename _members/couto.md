@@ -16,7 +16,7 @@ teaser: >
 profile:
     name: Marta C. Couto
     align: right
-    image: couto-profile.jpeg
+    image: couto-profile.jpg
     twitter: 
     github: 
     orcid: 

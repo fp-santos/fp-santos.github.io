@@ -15,7 +15,7 @@ teaser: >
 profile:
     name: Dimitris Michailidis
     align: right
-    image: michailidis-profile.jpeg
+    image: michailidis-profile.jpg
     twitter: 
     github: 
     orcid: 

@@ -15,7 +15,7 @@ teaser: >
 profile:
     name: Elif Ece Erdem
     align: right
-    image: erdem-profile.png
+    image: erdem-profile.jpg
     twitter: 
     github: 
     orcid: 

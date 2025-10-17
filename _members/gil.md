@@ -15,7 +15,7 @@ teaser: >
 profile:
     name: Roman Chiva Gil
     align: right
-    image: roman-profile.jpeg
+    image: gil-profile.jpg
     twitter: 
     github: 
     orcid: 

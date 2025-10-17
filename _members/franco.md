@@ -15,7 +15,7 @@ teaser: >
 profile:
     name: Gabriella D. Franco
     align: right
-    image: franco-profile.png
+    image: franco-profile.jpg
     twitter: 
     github: 
     orcid: 

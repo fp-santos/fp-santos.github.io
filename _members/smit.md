@@ -10,15 +10,15 @@ lastname: Smit
 publications: 'author^=*Smit'
 
 teaser: >
-    Hello, I'm a PhD student at the Socially Intelligent Artificial Systems group at the University of Amsterdam. I'm currently working on the dynamics of cooperation through indirect reciprocity, if you're working on something similar, try my implementation or get in contact with me to see if we can adapt it to your problem.
+    Hi. I'm a PhD student at SIAS working on the theory and applications of the dynamics of cooperation and fairness in reputation-guided systems such as digital service economy platforms.
 
 profile:
     name: Martin Smit
     align: right
-    image: smit-profile.jpeg
+    image: smit-profile.jpg
     twitter: 
-    github: 
-    orcid: 
-    website: https://jacobussmit.com
+    github: github.com/jacobusmmsmit
+    orcid: 0000-0001-5466-1259
+    website: https://www.jacobussmit.com
 ---
 

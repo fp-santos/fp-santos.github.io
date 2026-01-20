@@ -2,7 +2,7 @@
 layout: about
 inline: true
 group: Alumni
-group_rank: 1
+group_rank: 9
 team_frontpage: false
 
 title: Marco Colnaghi

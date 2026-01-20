@@ -2,7 +2,7 @@
 layout: about
 inline: true
 group: Postdoc
-group_rank: 2
+group_rank: 1
 team_frontpage: false
 
 title: Marta C. Couto

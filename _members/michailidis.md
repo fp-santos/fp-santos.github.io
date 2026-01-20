@@ -1,7 +1,7 @@
 ---
 layout: about
 inline: true
-group: postdoc
+group: Postdoc
 group_rank: 2
 team_frontpage: false
 

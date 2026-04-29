@@ -23,4 +23,4 @@ More details in a recent [AI Magazine article](https://doi.org/10.1002/aaai.1214
 (Prosocial Dynamics Lab, July 2025)
 
 
-{% include figure.html path="assets/img/LOGO_ERC-FLAG_EU.png" class="img-fluid rounded z-depth-1" zoomable=false%}
+{% include figure.html path="assets/img/LOGO_ERC-FLAG_EU.png" class="img-fluid rounded z-depth-1" zoomable=false width="60%" height="60%"%}

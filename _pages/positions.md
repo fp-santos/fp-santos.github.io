@@ -10,9 +10,12 @@ nav_order: 5
 ## No open positions at the moment (but keep an eye on this page for future opportunities)
 
 
-# Archive: 
+---
+---
 
-## PhD position: Cooperation through Reputation in Multi-agent Reinforcement Learning
+## Archive: 
+
+### PhD position: Cooperation through Reputation in Multi-agent Reinforcement Learning
 
 **Aplication deadline: October 2, 2024**
 

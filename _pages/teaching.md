@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-[Agentic Artificial Intelligence](https://studiegids.uva.nl/nl/vakken/2026/1/59756), MSc Artificial Intelligence, University of Amsterdam (2026)
+[Agentic Artificial Intelligence](https://studiegids.uva.nl/nl/vakken/2026/1/59756), MSc Artificial Intelligence, University of Amsterdam (2026-present)
 
 [Fundamentals of Data Science](https://studiegids.uva.nl/xmlpages/page/2023-2024-en/search-course/course/109692), MSc Information Studies, Data Science, University of Amsterdam (2021-present)
 

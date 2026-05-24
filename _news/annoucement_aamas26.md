@@ -14,10 +14,10 @@ In the workshops:
 - [Doctoral Consortium]() (Monday, May 25): Roman will give a pitch and present a poster about his PhD topic: *Reputation and Cooperation in Multi-Agent Reinforcement Learning* 
 - [Agents for Social Impact](https://panosd.eu/asi2026/#speakers): I'll give a talk on *The impact of AI in human cooperation*, summarizing some of our lab's recent work
 - [Citizen-Centric MAS Workshop](https://sites.google.com/view/cmas2026/home) (Tuesday, May 26): 
--- Alex is presenting on *Biased social norms of cooperation in large language models*
--- João will discuss his work on how *Algorithmic Recommendations Alter the Spread of Competing Information*
--- Mayesha will present her join work with Marta on *The Role of Regulatory Institutions in Strategic Lending*
--- Dimitris  will present his most recent work on *the challenges of generating realistic persoannnas with LLMs*, as a means to test social media interventions. 
+  - Alex is presenting on *Biased social norms of cooperation in large language models*
+  - João will discuss his work on how *Algorithmic Recommendations Alter the Spread of Competing Information*
+  - Mayesha will present her join work with Marta on *The Role of Regulatory Institutions in Strategic Lending*
+  - Dimitris  will present his most recent work on *the challenges of generating realistic persoannnas with LLMs*, as a means to test social media interventions. 
 - [Agents in Traffic and Transportation](https://sites.google.com/unimib.it/att2026/): I'll give a talk on *Games and Reinforcement Learning in Transportation Systems*
 
 

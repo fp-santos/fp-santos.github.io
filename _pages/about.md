@@ -6,7 +6,7 @@ subtitle: Associate Professor, University of Amsterdam.
 
 profile:
   align: right
-  image: fpsantos4.png
+  image: fpsantos-photo.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>L5.11, Lab 42,</p>
